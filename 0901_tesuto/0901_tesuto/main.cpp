@@ -71,9 +71,9 @@ int main（）
     int numOne = 0;
     int numTwo = 0;
     int ans;
-    printf（ "1つしこの入力をしてください。\ n"）;
+    printf（ "1つ入力をしてください。\ n"）;
     scanf_s（ "％d"、＆numOne）;
-    printf（ "2つしこの入力をしてください。\ n"）;
+    printf（ "2つ入力をしてください。\ n"）;
     scanf_s（ "％d"、＆numTwo）;
     if（numOne％2 == 1）
     {
@@ -104,9 +104,9 @@ int main（）
     char endString[4];
     while（true）
     {{
-        printf（ "1つしこの入力をしてください。\ n"）;
+        printf（ "1つ入力をしてください。\ n"）;
         scanf_s（ "％d"、＆numOne）;
-        printf（ "2つしこの入力をしてください。\ n"）;
+        printf（ "2つ入力をしてください。\ n"）;
         scanf_s（ "％d"、＆numTwo）;
         if（numOne％2 == 1）
         {{
